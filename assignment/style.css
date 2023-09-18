@@ -1,0 +1,59 @@
+body{
+    background-image: url(./assects/Images/gym.jpg);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    font-family: inherit;
+    color: white;
+}
+.heading{
+    color: white;
+    text-align: center;
+}
+#head1{
+    font-size: 40px;
+    line-height: 10px;
+}
+#head2{
+    background-color: #3e3e3e;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 10px;
+}
+.medium{
+    margin: 20px 20px;
+    }
+    .big{
+        border: 3px solid white;
+        width: 35%;
+        height: 400px;
+        border-radius: 20px;
+        margin: 0px 20px;
+        
+    }
+    .medium input{
+        padding: 10px 25px;
+        margin: 0px 10px;
+        border-radius: 10px;
+        border: none;
+        text-align: center;
+        
+
+    }
+    .medium label{
+        font-size: 20px;
+        cursor: pointer;
+    }
+    .medium1 input{
+        padding: 10px 25px;
+        border-radius: 10px;
+        border: none;
+        margin: 0px 10px;
+        cursor: pointer;
+    }
+    .medium1{
+        display: flex;
+        justify-content: right;
+        margin: 0px 20px;
+    }

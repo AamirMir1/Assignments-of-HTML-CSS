@@ -1,0 +1,49 @@
+.childimg {
+    margin-left: 90px;
+    margin-top: 90px;
+    float: left;
+}
+
+.childdiv {
+    width: 50%;
+    text-align: center;
+    float: right;
+    margin-top: 230px;
+    margin-right: 45px;
+
+}
+
+#Button1 {
+    border: none;
+    padding: 10px;
+    background-color: gray;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 50px;
+    cursor: pointer;
+    margin: auto;
+
+
+}
+
+.Childdiv2 {
+    float: left;
+    background-color: gray;
+    text-align: center;
+    padding: 0px 270px 30px 270px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+
+#button2 {
+    border: none;
+    padding: 10px;
+    background-color: wheat;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+
+}

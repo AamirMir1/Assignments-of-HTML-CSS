@@ -1,0 +1,40 @@
+.iconleft {
+    float: left;
+}
+
+.iconright {
+    float: right;
+    margin-right: 20px;
+    width: 20px;
+
+}
+
+.navbar {
+    margin-left: 300px;
+    margin-top: 15px;
+    display: inline-block;
+
+}
+
+button {
+    margin: 0px 40px 0px 40px;
+    background-color: rgb(240, 240, 240);
+    border: none;
+    font-size: 15px;
+    font-weight: bolder;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 5px;
+}
+.child {
+    width: 40%;
+    margin-left: 100px;
+    margin-top: 20px;
+    padding-top: 50px;
+    
+}
+.parent2 {
+    background-image: url(./assects/Images/halfgradient.png);
+    height: 730px;
+    
+}
